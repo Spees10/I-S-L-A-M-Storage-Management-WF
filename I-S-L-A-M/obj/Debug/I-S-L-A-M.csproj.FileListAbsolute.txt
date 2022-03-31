@@ -1,0 +1,96 @@
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\bin\Debug\I-S-L-A-M.exe.config
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\bin\Debug\I-S-L-A-M.exe
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\bin\Debug\I-S-L-A-M.pdb
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.dll
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.SqlServer.dll
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.xml
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.SqlServer.xml
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.AssemblyReference.cache
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Properties.Resources.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.GenerateResource.cache
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.CoreCompileInputs.cache
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.CopyComplete
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.exe
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.pdb
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CategoryForm.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Main.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.ProductForm.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateCustomer.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateSupplier.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateBranch.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CustomerBILLForm.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.SupplierBillForm.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.SellProductForm.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.ReportsForm.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\bin\Debug\I-S-L-A-M.exe.config
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\bin\Debug\I-S-L-A-M.exe
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\bin\Debug\I-S-L-A-M.pdb
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.dll
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.xml
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CategoryForm.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateBranch.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateCustomer.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateSupplier.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Main.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.ProductForm.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Properties.Resources.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CustomerBILLForm.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.ReportsForm.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.SellProductForm.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.SupplierBillForm.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.GenerateResource.cache
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.CoreCompileInputs.cache
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.CopyComplete
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.exe
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.pdb
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.firstInPC.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.GradientButton.resources
+D:\ITI\.NET\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.AssemblyReference.cache
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.GradientButton.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateVendor.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.ProductVendor.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.First.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.RestMoney.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.Decimal.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.Decimal2.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.Decimal3.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.Decimal4.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.VendStars.resources
+G:\ITI .NET\Visual C#\Finale Project\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.VendorBillForm.resources
+D:\I-S-L-A-M\I-S-L-A-M\bin\Debug\I-S-L-A-M.exe.config
+D:\I-S-L-A-M\I-S-L-A-M\bin\Debug\I-S-L-A-M.exe
+D:\I-S-L-A-M\I-S-L-A-M\bin\Debug\I-S-L-A-M.pdb
+D:\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.dll
+D:\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.SqlServer.dll
+D:\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.xml
+D:\I-S-L-A-M\I-S-L-A-M\bin\Debug\EntityFramework.SqlServer.xml
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.AssemblyReference.cache
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CategoryForm.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateBranch.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateCustomer.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateSupplier.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CreateVendor.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.GradientButton.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Main.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.First.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.RestMoney.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.Decimal.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.Decimal2.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.Decimal3.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.Decimal4.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Migrations.VendStars.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.ProductForm.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.ProductVendor.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.Properties.Resources.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.CustomerBILLForm.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.ReportsForm.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.SellProductForm.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.SupplierBillForm.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I_S_L_A_M.VendorBillForm.resources
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.GenerateResource.cache
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.CoreCompileInputs.cache
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.csproj.CopyComplete
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.exe
+D:\I-S-L-A-M\I-S-L-A-M\obj\Debug\I-S-L-A-M.pdb
